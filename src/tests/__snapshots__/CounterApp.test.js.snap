@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CounterApp> usando Enzyme Debe de mostrar <CounterApp> correctamente, hacer match con un snapshot 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2
+    className="ct"
+  >
+    100
+  </h2>
+  <h2
+    id="counter"
+  >
+    0
+  </h2>
+  <button
+    className="btn btn-dark btn-lg"
+    id="sumar"
+    onClick={[Function]}
+  >
+    Agrega 1
+  </button>
+  <button
+    className="btn btn-dark btn-lg"
+    id="restar"
+    onClick={[Function]}
+  >
+    Remover 1
+  </button>
+  <button
+    className="btn btn-dark btn-lg"
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</Fragment>
+`;
+
+exports[`Pruebas en <CounterApp> usando Enzyme Debe de mostrar <CounterApp> el valor por defecto 100 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2
+    className="ct"
+  >
+    100
+  </h2>
+  <h2
+    id="counter"
+  >
+    0
+  </h2>
+  <button
+    className="btn btn-dark btn-lg"
+    id="sumar"
+    onClick={[Function]}
+  >
+    Agrega 1
+  </button>
+  <button
+    className="btn btn-dark btn-lg"
+    id="restar"
+    onClick={[Function]}
+  >
+    Remover 1
+  </button>
+  <button
+    className="btn btn-dark btn-lg"
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</Fragment>
+`;
